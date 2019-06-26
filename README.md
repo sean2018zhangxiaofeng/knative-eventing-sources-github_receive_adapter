@@ -1,0 +1,1 @@
+# knative-eventing-sources-github_receive_adapter
